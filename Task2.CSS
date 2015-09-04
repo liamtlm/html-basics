@@ -1,0 +1,23 @@
+header{
+	padding-top: 20;
+}
+section{
+	font-color: red;
+	background-color: green;
+}
+
+h4{
+	text-align: center;
+}
+h1{
+	font-size: 3em;
+}
+body{
+	background-color:yellow;
+}
+aside section h4 p{
+	background-color: purple;
+	font-family: times;
+	text-decoration: bold
+	line-height: 2em;
+}
